@@ -10,7 +10,6 @@
 
 Path Laplacian Transformer-based Prospective Analysis Framework (PLFormer-PAF)
 
-**Contributor** - Dong Chen
 
 ---
 
